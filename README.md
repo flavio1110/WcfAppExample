@@ -12,3 +12,7 @@ Feel free to fork. :)
 
 
 Ps.: If is your first time with WCF hosted on IIS, you must install the activation components for WCF. See the link below: https://msdn.microsoft.com/en-us/library/ms731053(v=vs.110).aspx
+
+For learn more about WCF I recommed see these videos:
+
+https://www.youtube.com/playlist?list=PL6n9fhu94yhVxEyaRMaMN_-qnDdNVGsL1
